@@ -12,3 +12,6 @@ The Structure of the repository is as follows:
 6. Scene set up (Templates, Games to Stream & intermissionable scenes) All links are provided
 
 Now let us get stuck in shall we?
+
+Username:CriticalCitadel
+Password:SmV#CNad5!@37uEt5DHG
